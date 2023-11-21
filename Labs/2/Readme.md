@@ -1,1 +1,1 @@
-Not finished yet.
+Lab 2. Nim game
